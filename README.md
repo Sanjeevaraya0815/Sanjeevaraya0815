@@ -151,16 +151,9 @@ const sanjeev = {
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+## 🐍 Contribution Snake
 
-<!-- Light mode snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjeevaraya0815/Sanjeevaraya0815/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjeevaraya0815/Sanjeevaraya0815/output/github-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Sanjeevaraya0815/Sanjeevaraya0815/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
+![GitHub Snake](https://raw.githubusercontent.com/Sanjeevaraya0815/Sanjeevaraya0815/output/github-snake.svg)
 
 > ⚙️ **To activate the snake:** Create a GitHub Actions workflow at `.github/workflows/snake.yml` in your profile repo:
 > ```yaml
