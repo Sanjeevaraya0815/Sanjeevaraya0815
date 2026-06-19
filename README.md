@@ -145,13 +145,7 @@ const sanjeev = {
 ---
 
 
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjeevaraya0815/Sanjeevaraya0815/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjeevaraya0815/Sanjeevaraya0815/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Sanjeevaraya0815/Sanjeevaraya0815/output/github-snake.svg" />
-</picture>
 ## 📈 Contribution Metrics
 
 <div align="center">
