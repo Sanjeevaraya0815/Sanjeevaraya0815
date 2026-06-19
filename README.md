@@ -13,8 +13,7 @@ Hi, I'm Sanjeev.<br><br>I'm a Computer Science undergraduate passionate about bu
 ![](https://streak-stats.demolab.com/?user=Sanjeevaraya0815&theme=dark&hide_border=false)<br />
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sanjeevaraya0815&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sanjeevaraya0815&theme=darkhub)](https://github.com/Sanjeevaraya0815)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
