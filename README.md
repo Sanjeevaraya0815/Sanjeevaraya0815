@@ -149,7 +149,6 @@ const sanjeev = {
 
 ---
 
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
