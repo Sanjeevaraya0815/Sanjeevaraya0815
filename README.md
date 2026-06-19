@@ -3,10 +3,17 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sanjeevaraya&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20Systems%20Architect&descSize=18&descAlignY=58&descColor=a0aec0"/>
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Building+the+Future%2C+One+Commit+at+a+Time;🧠+Passionate+about+Intelligent+Systems;⚡+Full-Stack+%7C+Data+Engineering+%7C+AI%2FML;🌟+Turning+Ideas+into+Real-World+Solutions;💡+Open+Source+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG" />
-</a>
+## About Me
+
+🚀 Building impactful technology solutions through software development and innovation.
+
+🧠 Passionate about intelligent systems, problem-solving, and continuous learning.
+
+⚡ Exploring Full-Stack Development, Data Engineering, Artificial Intelligence, and Machine Learning.
+
+🌟 Focused on transforming ideas into scalable and practical applications.
+
+💡 Enthusiastic about open-source contributions, collaboration, and lifelong growth.
 
 <br/>
 
