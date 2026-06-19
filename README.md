@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sanjeev%20Araya&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20Systems%20Architect&descSize=18&descAlignY=58&descColor=a0aec0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sanjeevaraya&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20ML%20Engineer%20%7C%20Systems%20Architect&descSize=18&descAlignY=58&descColor=a0aec0"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
@@ -32,7 +32,7 @@
 
 ```typescript
 const sanjeev = {
-  name:        "Sanjeev Araya",
+  name:        "Sanjeevaraya",
   role:        "CS Undergraduate & Software Engineer",
   location:    "India 🇮🇳",
   currentFocus: [
