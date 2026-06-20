@@ -5,13 +5,13 @@
 
 ## About Me
 
-🚀 Building impactful technology solutions through software development and innovation.
+🚀 Building impactful technology solutions through software development and innovation
 
-🧠 Passionate about intelligent systems, problem-solving, and continuous learning.
+🧠 Passionate about intelligent systems, problem-solving, and continuous learning
 
-⚡ Exploring Full-Stack Development, Data Engineering, Artificial Intelligence, and Machine Learning.
+⚡ Exploring Full-Stack Development, Data Engineering, Artificial Intelligence, and Machine Learning
 
-🌟 Focused on transforming ideas into scalable and practical applications.
+🌟 Focused on transforming ideas into scalable and practical applications
 
 💡 Enthusiastic about open-source contributions, collaboration, and lifelong growth.
 
