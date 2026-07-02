@@ -5,7 +5,7 @@
 
 ## About Me
 
-🚀 Building impactful technology solutions through software development and innovation
+🚀 Building impactful technology solutions through software development and innovation    
 
 🧠 Passionate about intelligent systems, problem-solving, and continuous learning
 
